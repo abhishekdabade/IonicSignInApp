@@ -1,0 +1,205 @@
+{
+
+	"userId": "ec0328",
+
+	"password": null,
+
+	"firstName": "Sreeram Naga",
+
+	"lastName": "Gavirneni",
+
+	"orgs": [{
+
+		"orgId": "1",
+
+		"orgName": "CMS_ADA",
+
+		"serviceCount": "1",
+
+		"status": [{
+
+			"key": "PROD BLUE",
+
+			"value": "1"
+
+		}]
+
+	}, {
+
+		"orgId": "2",
+
+		"orgName": "eTech - Tachyon",
+
+		"serviceCount": "12",
+
+		"status": [{
+
+			"key": "DEV",
+
+			"value": "8"
+
+		}, {
+
+			"key": "PROD BLUE",
+
+			"value": "1"
+
+		}, {
+
+			"key": "QA",
+
+			"value": "2"
+
+		}, {
+
+			"key": null,
+
+			"value": "1"
+
+		}]
+
+	}, {
+
+		"orgId": "3",
+
+		"orgName": "Comm Platform",
+
+		"serviceCount": "11",
+
+		"status": [{
+
+			"key": "DEV",
+
+			"value": "10"
+
+		}, {
+
+			"key": "PROD",
+
+			"value": "1"
+
+		}]
+
+	}, {
+
+		"orgId": "4",
+
+		"orgName": "B2B Shared",
+
+		"serviceCount": "15",
+
+		"status": [{
+
+			"key": "DEV",
+
+			"value": "11"
+
+		}, {
+
+			"key": "PROD READY",
+
+			"value": "1"
+
+		}, {
+
+			"key": "QA",
+
+			"value": "3"
+
+		}]
+
+	}, {
+
+		"orgId": "6",
+
+		"orgName": "Person",
+
+		"serviceCount": "2",
+
+		"status": [{
+
+			"key": "DEV",
+
+			"value": "2"
+
+		}]
+
+	}, {
+
+		"orgId": "7",
+
+		"orgName": "Provider",
+
+		"serviceCount": "1",
+
+		"status": [{
+
+			"key": "DEV",
+
+			"value": "1"
+
+		}]
+
+	}, {
+
+		"orgId": "8",
+
+		"orgName": "eTech - Nucleus",
+
+		"serviceCount": "5",
+
+		"status": [{
+
+			"key": "DEV",
+
+			"value": "4"
+
+		}, {
+
+			"key": null,
+
+			"value": "1"
+
+		}]
+
+	}, {
+
+		"orgId": "5",
+
+		"orgName": "EEP_Order_To_Cash",
+
+		"serviceCount": "4",
+
+		"status": [{
+
+			"key": "DEV",
+
+			"value": "2"
+
+		}, {
+
+			"key": "QA",
+
+			"value": "2"
+
+		}]
+
+	}, {
+
+		"orgId": "9",
+
+		"orgName": "PBM-ClinicalCOE",
+
+		"serviceCount": "2",
+
+		"status": [{
+
+			"key": "QA",
+
+			"value": "2"
+
+		}]
+
+	}]
+
+}
